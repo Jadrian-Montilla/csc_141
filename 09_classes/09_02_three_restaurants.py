@@ -1,4 +1,4 @@
-# 1
+#1, lobsters
 class Restaurant:
     def __init__(self, restaurant_name, cuisine_type):
         self.name = restaurant_name
@@ -13,9 +13,16 @@ class Restaurant:
 
 restaurant = Restaurant("Michael's hotdogs", "hotdogs")
 
-print(restaurant.name)
-print(restaurant.food)
-
 restaurant.describe_restaurant()
 
-restaurant.open_restaurant()
+print("\n")
+
+restaurant2 = Restaurant("Johnny's maple pancakes", "giant pancakes")
+
+restaurant2.describe_restaurant()
+
+print("\n")
+
+restaurant3 = Restaurant("Olivia's coconut shakes", "milkshakes")
+
+restaurant3.describe_restaurant()
