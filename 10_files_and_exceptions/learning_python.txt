@@ -1,0 +1,4 @@
+In Python, you can create lists to store information
+In Python, you can use a tool call dictionaries to make "sub variables" in them
+In Python, you can make loops that repeat forever
+In Python, you can try to win the lottery
